@@ -9,3 +9,4 @@ Template für die Einsendeaufgabe "Buchstabenquadrate" der Class "Test Driven De
 ## Demo
 
 Eine Demo der Einsendeaufgabe findet sich unter: <a href="https://terminal.webmasters-akademie.dev/">https://terminal.webmasters-akademie.dev/</a>
+![CleanShot 2021-03-10 at 2 15 32](https://user-images.githubusercontent.com/42392570/110635837-d94c9e80-81ab-11eb-92f9-c43b0f984b19.gif)
